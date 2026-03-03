@@ -3,7 +3,7 @@
  * Plugin Name:       Kadence WDS compatibility plugin [WooChrono]
  * Plugin URI:        https://iconicwp.com/products/woocommerce-delivery-slots/?utm_source=iconicwp&utm_medium=plugin&utm_campaign=iconic-wds-compat-woochrono
  * Description:       Compatibility between {Delivery Slots by Kadence} and WooChrono.
- * Author:            Kadence WP
+ * Author:            Kadence
  * Author URI:        https://www.kadencewp.com/
  * Text Domain:       iconic-compat-72370
  * Domain Path:       /languages
